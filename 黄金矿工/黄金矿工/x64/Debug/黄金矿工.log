@@ -1,0 +1,6 @@
+﻿  game.cpp
+D:\GitHub\C-Projects\黄金矿工\黄金矿工\game.cpp(112,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\GitHub\C-Projects\黄金矿工\黄金矿工\game.cpp(113,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\GitHub\C-Projects\黄金矿工\黄金矿工\game.cpp(122,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\GitHub\C-Projects\黄金矿工\黄金矿工\game.cpp(123,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  黄金矿工.vcxproj -> D:\GitHub\C-Projects\黄金矿工\x64\Debug\黄金矿工.exe

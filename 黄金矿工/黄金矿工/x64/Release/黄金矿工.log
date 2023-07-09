@@ -1,0 +1,14 @@
+﻿  game.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\tchar.h(887,1): warning C4005: “_stprintf”: 宏重定义
+D:\GitHub\C-Projects\黄金矿工\黄金矿工\game.h(2,1): message : 参见“_stprintf”的前一个定义
+D:\GitHub\C-Projects\黄金矿工\黄金矿工\game.cpp(42,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\GitHub\C-Projects\黄金矿工\黄金矿工\game.cpp(168,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\GitHub\C-Projects\黄金矿工\黄金矿工\game.cpp(169,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\GitHub\C-Projects\黄金矿工\黄金矿工\game.cpp(178,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\GitHub\C-Projects\黄金矿工\黄金矿工\game.cpp(179,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  3 of 17 functions (17.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  黄金矿工.vcxproj -> D:\GitHub\C-Projects\黄金矿工\x64\Release\黄金矿工.exe
